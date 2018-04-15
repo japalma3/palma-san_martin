@@ -6,7 +6,7 @@
 body{
 	background:rgba(0, 0, 0, 1);
 	color:rgba(360,100,0,1);
-	font-family: 'Cabin', sans-serif;
+	font-family: 'Neucha', cursive;
 	font-weight:600;
 }
 
@@ -32,7 +32,7 @@ h2{
 
 h3{
 	letter-spacing:0.2em;
-	color:rgba(0,0,0,.75);
+	color:rgba(238,235,235,0,7);
 	padding:2em 0 0.6em 0;
 	text-shadow: 1px 1px 0 #ccc;
 	text-align:center;
